@@ -1,0 +1,9 @@
+.env/*
+.ipynb_checkpoints/*
+*.aux
+*.tls
+*.out
+*.gz
+*.fls
+*.log
+*.fdb_latexmk
