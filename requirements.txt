@@ -13,3 +13,5 @@ openpyxl
 matplotlib
 matplotlib-inline
 seaborn
+wordcloud
+pyLDAvis
